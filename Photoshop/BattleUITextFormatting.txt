@@ -1,0 +1,33 @@
+
+START:
+
+Enemy___
+ENEMYT wants
+to fight!
+
+ENEMYT sent
+out PNAME!
+
+Wild___
+Wild PNAME
+appeared!
+
+Player____
+Go! PNAME!
+
+PNAME enough!
+Come back!
+
+PNAME defeated
+ENEMYT!
+
+PNAME blacked
+out!
+
+Battle:
+
+{Enemy?} PNAME
+used ATTACK NAME!
+
+{Enemy?} PNAME
+fainted!

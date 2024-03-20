@@ -1,0 +1,96 @@
+160x144 original size
+480x432 screen size
+
+56x56 max pkmn size (unscaled)
+168x168 max pkmn size (scaled)
+
+x3 multiplier
+
+504 x 3 = 1512
+
+f8f8f8
+
+EnemyBoxDimensions (168x168)
+COORDS:
+EnemyPokemonPos: 288,264
+EnemyPkmnName: 24, 408
+
+Lvl Icon:	96, 384
+Lvl Val:	120, 384
+HP Bar:		96, 360
+
+PLAYER
+PlayerBoxDimensions (192x192)
+
+312 
+PlayerPokemonPos: 24,120                
+PlayerPokemonName: 240, 240
+
+HP_START: 264, 168
+
+Lvl Icon: 	336,216 	
+Lvl Val:	360,216
+
+
+MoveList 
+TypeName:	48,192
+CurrPP:		+3s,-1s x2
+
+
+FontSquare (24x24) each
+
+384x240
+
+https://pokemondb.net/move/generation/1
+
+hpHex: 606060
+
+Move List
+Type: 		48,  168   	length: 8
+currPP: 	120, 144	length: 2
+maxPP:		192, 144	length: 2
+pointer:	120, 96 (+3)
+MoveName1:	144, 96		length: 12 
+MoveName2:	144, 72		length: 12
+MoveName3:	144, 48		length: 12
+MoveName4:	144, 24		length: 12
+
+PartyList
+Bottom of List: 	144, 0 
+PokemonIcon:		144, 24 (+48xN)
+HP Bar:			144, 96 (+48xN) 
+PokemonName:		168, 72 (+48xN) 
+CurrHP: 		312, 144
+MaxHP:			408, 144 
+Lvl Icon:		312, 168
+Lvl Val :		336, 168
+
+
+TextBox:
+Line1: 			24, 72	length: 18
+Line2:			24, 24	length: 17
+
+
+ 
+Menu:
+Gengar:			72 ,264
+
+Pokemon Stop Spot:	120,24
+
+384 x 168
+LogoEndPoint:		48, 192
+Comes from above
+
+246x24
+VersionEnd:		114,240
+Comes from right side
+
+Pkmn stay about 3 seconds on screen before leave
+1 sec after they leave before another slides on
+
+
+
+BAG:
+First row: 144, 312
+Arrow at: 120, 312
+Blank: 120, 168 ,432,288  
